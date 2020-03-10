@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MoviewList</string>
+    <string name="titleName">THE MOVIES</string>
+    <string name="recommandedAll">Recommend For You</string>
+    <string name="showAll">Show All</string>
+    <string name="API_KEY">bddcd56683d5471d8191dae680027204</string>
+    <string name="image_url">http://image.tmdb.org/t/p/w200</string>
+    <string name="popular_movies">Popular Movies</string>
+    <string name="top_rated_movies">Top Rated Movies</string>
+    <string name="watch_list">Watchlist</string>
+    <string name="favourite">Favourite</string>
+    <string name="share">Share</string>
+    <string name="overview">Overview</string>
+    <string name="searchMovie">Search Movies</string>
+</resources>
